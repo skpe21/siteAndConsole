@@ -6,3 +6,4 @@ and back to you! (from desktop)
 now try to fetch and merge!
 done, now sending back with push origin main
 keys are done, double check
+ok once more with git bash
