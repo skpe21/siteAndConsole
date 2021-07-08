@@ -13,3 +13,4 @@ now try commit from pshell with signature (last time was bash)
 try commit from pshell with automatic signing
 one last time commit, but taking out ssh
 one change
+second changes
